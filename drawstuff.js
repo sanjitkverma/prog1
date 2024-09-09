@@ -131,7 +131,7 @@ function getInputTriangles() {
 //get the input boxex from the standard class URL
 function getInputBoxes() {
     const INPUT_BOXES_URL = 
-        "https://ncsucgclass.github.io/prog1/boxes.json";
+        "https://ncsucgclass.github.io/prog1/triangles.json";
         
     // load the boxes file
     var httpReq = new XMLHttpRequest(); // a new http request
